@@ -18,3 +18,6 @@ h1 {
   width: 53vh;
   height: auto;
 }
+.about img{
+  border-radius: 25% 10%;
+}
